@@ -16,7 +16,7 @@ html{
 body{
     font-family: 'Oswald', sans-serif;
     padding:65px 0;
-    background-color:#2b2323;
+    background-image: linear-gradient(#4C3537,#C21919,#4C3537);
     color: #fff;
     min-height: 100%;
     height: 100vh;
@@ -24,7 +24,7 @@ body{
 }
 .header{
     grid-area:header;
-    background-image: linear-gradient(#4C3537,#C21919 ,#4C3537);
+    background-image: linear-gradient(#4C3537,#C21919,#4C3537);
     box-shadow: 0 3px 10px rgb(182, 165, 165);
     position: fixed;
     height: 22%;
